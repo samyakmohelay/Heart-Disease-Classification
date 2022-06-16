@@ -9,7 +9,7 @@ Classification involves deciding whether a sample is part of one class or anothe
 ### What we'll end up with
 Since we already have a dataset, we'll approach the problem with the following machine learning modelling framework.
 
-IMAGE HERE
+![](images/ml-framework.png)
 
 More specifically, we'll utilize the following steps.
 
