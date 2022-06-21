@@ -34,7 +34,7 @@ We're going to take the following approach:
 6. Experimentation
 
 ### 1. Problem Definition
-In our case, the problem we will be exploring is **binary classification** (a sample can only be one of two things).
+In our case, the problem we will be exploring is `binary classification` (a sample can only be one of two things).
 
 This is because we're going to be using a number of different features (pieces of information) about a person to predict whether they have heart disease or not.
 
@@ -46,7 +46,7 @@ The original data came from the Cleavland data from the [UCI Machine Learning Re
 
 There is also a version of it available on [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci).
 
-The original database contains 76 attributes, but here 14 of those attributes will be used. Attributes (also called features) are the variables what we'll use to predict our target variable.
+The original database contains `76 attributes`, but here 14 of those attributes will be used. Attributes (also called features) are the variables what we'll use to predict our target variable.
 
 ### 3. Evaluation
 > If we can reach 90% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursue the project.
